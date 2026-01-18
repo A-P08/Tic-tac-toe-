@@ -20,8 +20,8 @@ A simple, interactive two-player Tic-Tac-Toe game that runs in the command line.
 3. Select your marker (X or O).
 4. Enter a position number from **1 to 9** based on the layout below:
 
-| 1 | 2 | 3 |
-| 4 | 5 | 6 |
+| 1 | 2 | 3 | <br>
+| 4 | 5 | 6 | <br>
 | 7 | 8 | 9 |
 
 ---
