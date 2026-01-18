@@ -32,6 +32,3 @@ A simple, interactive two-player Tic-Tac-Toe game that runs in the command line.
 
 ---
 
-## 🚀 How to Run
-```bash
-python tic tac toe3.py
